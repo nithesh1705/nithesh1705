@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/nitheshm/"><img src="https://img.shields.io/badge/LinkedIn-nitheshm-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0f1a" alt="LinkedIn"/></a>
 <a href="mailto:nitheshm1705@gmail.com"><img src="https://img.shields.io/badge/Email-nitheshm1705@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f1a" alt="Email"/></a>
-<!-- <img src="https://komarev.com/ghpvc/?username=nithesh1705&label=visitors&color=00ff9c&style=flat-square&labelColor=0a0f1a" alt="visitors"/> -->
+<img src="https://komarev.com/ghpvc/?username=nithesh1705&label=visitors&color=00ff9c&style=flat-square&labelColor=0a0f1a" alt="visitors"/>
 
 </div>
 
@@ -145,11 +145,12 @@ PRODUCTION         VRM call-intel pipelines across 5 teams (Whisper -> Gemini, ~
 
 <img src="https://streak-stats.demolab.com?user=nithesh1705&theme=dark&hide_border=true&background=0a0f1a&ring=00ff9c&fire=00e5ff&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6f7d99" alt="streak"/>
 
-</div>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=2000&color=00FF9C&background=0A0F1A&width=860&height=225&lines=nithesh%40ai-lab%3A~%24+contact+--list;linkedin+%3A+linkedin.com%2Fin%2Fnitheshm;github+++%3A+github.com%2Fnithesh1705;email++++%3A+nitheshm1705%40gmail.com;nithesh%40ai-lab%3A~%24+echo+open+to+collabs+on+AI+agents+and+automation;open+to+collabs+on+AI+agents+and+automation;nithesh%40ai-lab%3A~%24+exit;logout.+thanks+for+stopping+by.&multiline=true&repeat=true&center=false&vCenter=false" alt="contact"/>
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=40&lines=%2F%2F+Open+to+collaborations+on+AI+%26+automation;%2F%2F+Got+an+idea%3F+Let's+build+it+together+%F0%9F%9A%80" /> </div> 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=40&lines=%2F%2F+Open+to+collaborations+on+AI+%26+automation;%2F%2F+Got+an+idea%3F+Let's+build+it+together+%F0%9F%9A%80" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f2a1f,100:0a0f1a&section=footer" alt="footer"/>
+
+</div>
